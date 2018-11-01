@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="sample_text">Sample Text</string>
+
+
+    <!-- All Cricketer Name -->
+    <string-array name="mcq_name">
+        <!--
+        cricketer_name
+-->
+        <item>BANGLA</item>
+        <item>English</item>
+        <item>Math</item>
+        <item>ICT</item>
+
+
+        <!--
+        <item>Hashim Amla</item>
+        <item>Mushfiqur Rahim</item>
+        <item>Shakib Al Hasan</item>
+        <item>Mahmudullah Riyad</item>
+        <item>Mustafizur Rahman</item>-->
+    </string-array>
+
+
+    <!-- All Cricketer Image -->
+    <!--cricketer_image-->
+    <integer-array name="mcq_logo">
+        <item>@drawable/bangla</item>
+        <item>@drawable/english_logo</item>
+        <item>@drawable/math_logo</item>
+        <item>@drawable/ict</item>
+
+
+        <!-- <item>@drawable/afridi</item>
+        <item>@drawable/mashrafee</item>
+        <item>@drawable/tamim</item>
+        <item>@drawable/fakhar_zaman</item>
+        <item>@drawable/babar_azam</item>
+        <item>@drawable/hashim_amla</item>
+        <item>@drawable/mushfiqur_rahim</item>
+        <item>@drawable/sakib</item>
+        <item>@drawable/mahmudullah</item>
+        <item>@drawable/mustafiz</item>-->
+    </integer-array>
+
+
+</resources>
